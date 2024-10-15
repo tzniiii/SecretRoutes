@@ -15,11 +15,5 @@
 - If you have any questions, join the discord: https://discord.gg/secretroutes
 
 ## Credits:
-- @yourboykyle (me) - developer
-- @wyannnnn - developer
 - @mrfast - help with various things
 - @zzyyrraa - recorded routes + meows for custom secret noises
-- https://github.com/Quantizr/DungeonRoomsMod - code for room detection
-- https://github.com/Soopyboo32/SoopyV2 - code for some rendering functions (translated from JS to java)
-- https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide - code for some rendering functions
-- https://github.com/odtheking/Odin - copied a small bit of code for playing sounds cus wyan is lazy lol
